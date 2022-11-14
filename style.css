@@ -2,24 +2,24 @@ body {
     margin: 0;
     padding: 0;
     font-size: 10px;
-    background-color: #3867A8;
+    background-color: white;
 }
 #calculator-container {
-    background-color: yellowgreen;
+    background-color: white;
     margin: 45px auto;
     width: 440px;
     height: 540px;
     border: 1px solid;
 }
 #display {
-    background-color: #1d3557;
+    background-color: white;
     border: 1px solid;
     width: 438px;
     height: 120px;
 }
 #display-text {
     display: block;
-    color: #f1faee;
+    color: black;
     font-size: 52px;
     text-align: right;
     margin: 27px 0; 

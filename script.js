@@ -50,7 +50,6 @@ function displayInputNumber() {
 function isLongDisplay() {
     if (displayText.textContent.length >= 12) {
         displayText.style.cssText = 'font-size: 27px; margin: 44px 0';
-        // isprav' skachok texta v css
     }
 }
 
